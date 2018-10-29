@@ -8,3 +8,6 @@
 
 ### Oh my bash
     https://github.com/ohmybash/oh-my-bash
+
+### fzf
+    https://github.com/junegunn/fzf
