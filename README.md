@@ -1,6 +1,6 @@
 # Things to Install
 ### i3 blocks
-https://github.com/vivien/i3blocks#installation
+    https://github.com/vivien/i3blocks#installation
 ### Spotify for i3
     https://pavelmakhov.com/2018/01/spotify-i3
 
